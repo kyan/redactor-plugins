@@ -23,6 +23,15 @@ These are the instructions when you are using ```redactor-rails```. Firstly add 
 /app/assets/redactor-rails/plugins/
 ```
 
+Now you need pull them into your app:
+
+```
+//= require redactor-rails/redactor
+//= require redactor-rails/config
+//= require redactor-rails/plugins/video
+//= require redactor-rails/plugins/audio
+```
+
 Now in your ```/app/assets/redactor-rails/config.js``` or where ever you you init redactor.
 
 ```
