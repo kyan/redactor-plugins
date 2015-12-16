@@ -2,6 +2,10 @@
 
 A bunch of plugins for the Redacator WYSIWYG Text Editor.
 
+## Version
+
+These plugins have been tested on Redactor v10.0.4
+
 ## Video.js
 
 This is an updated version of the plugin available on the Redactor site that
